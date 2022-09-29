@@ -26,8 +26,10 @@ Ir no diretorio que ele se encontra salvo, executar o comando "sudo python3 back
 ![image](https://user-images.githubusercontent.com/114665200/193116749-5a63d99d-3874-4941-806c-1d327dd4d8cb.png)
 
 
+![image](https://user-images.githubusercontent.com/114665200/193119867-5d244c87-8218-415f-908e-47cf31603cc9.png)
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Detector
 

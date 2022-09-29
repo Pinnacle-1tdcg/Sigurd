@@ -26,3 +26,14 @@ Ir no diretorio que ele se encontra salvo, executar o comando "sudo python3 back
 ![image](https://user-images.githubusercontent.com/114665200/193116749-5a63d99d-3874-4941-806c-1d327dd4d8cb.png)
 
 
+
+
+
+Detector
+
+A parte de deteccao funciona de algumas formas, tem varios vetores ao mesmo tempo trabalhando para que encontre qualquer coisa que possa ser considerada uma ameaça, seja por uso de CPU, qualquer tipo de alteracao nos arquivos armadilhas, inodes ou download de arquivos com uma hash conhecida tambem a ferramenta teria capacidade de deletar esse arquivo e executar uma acao de parada de processos.
+
+Para que isso aconteca, como no backup, a ferramenta precisa ser executa com privilegios de "root", que significa maior possivel em uma maquina linux, pois precisamos fazer algumas operacoes que somente um SUPER USUARIO poderia fazer.
+
+A ferramenta passou por uma serie de testes com ransomwares que estao sendo disponibilizados hoje em dia e obteve sucesso na maioria dos testes, conseguindo parar eles e proteger os arquivos de backup e ate mesmo a maquina de ser danificada parando o avanco do ataque.
+

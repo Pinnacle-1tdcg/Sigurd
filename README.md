@@ -4,10 +4,10 @@ email para contato: pinnacle.1tdcg@proton.me
 
 time: 
 
-Gustavo Gonçalves Diniz
-Leandro Sung Ha
-Leonardo de Oliveira Leitão
-Vinicius Angelo Poci
+- Gustavo Gonçalves Diniz
+- Leandro Sung Ha
+- Leonardo de Oliveira Leitão
+- Vinicius Angelo Poci
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,9 +1,23 @@
-# Pinnacle
+Pinnacle
+
+email para contato: pinnacle.1tdcg@proton.me
+
+time: 
+
+Gustavo Gonçalves Diniz
+Leandro Sung Ha
+Leonardo de Oliveira Leitão
+Vinicius Angelo Poci
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Projeto voltado a parar ransomwares e proteger arquivos 
 
 O grupo Pinnacle, que conta com  a motivação de tornar o dia a dia de pequnas empresas e usuarios comuns mais seguras, pensando em proteger
 seus arquivos, ativos, e proteger a maquina de sofrer um dano permanente em seu SISTEMA apos sofrer um ataque de ransomware.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Ferramentas:
 

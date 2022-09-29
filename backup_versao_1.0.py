@@ -21,7 +21,7 @@ def apresentacao():
     print(figlet_format('Pinnacle'))
 
     print('Bem vindo ao software desenvolvido pelo time PINNACLE')
-    print('Nosso objetivo é  manter seus arquivos e sua máquina mais seguros.')
+    print('Nosso objetivo Ã© manter seus arquivos mais seguros e sua maquina tambem.')
 
 def home(path = paths[0]):                                                                     # Esse bloco home, root, tmp servem para o programa fazer uma varredura nesses tres diretorios, buscando em cada pastas os arquivos que corresponderem as extensoes pre definidas, logo apos eles sao adicionados dentro da lista que fica dentro do dicionario.
     for root,dirs, files in os.walk(path):
@@ -111,5 +111,5 @@ while True:
         janela1.un_hide()
     if window == janela2 and evento == "Iniciar Backup":
         teste_backup()
-        sg.popup("Backup realizado com sucesso!")
+        sg.popup("Backup realizado com sucesso!", icon="icon2.png")
 window.close()

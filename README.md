@@ -21,5 +21,8 @@ Ir no diretorio que ele se encontra salvo, executar o comando "sudo python3 back
 
 ![image](https://user-images.githubusercontent.com/114665200/193116500-7f229545-a81c-481a-a3ee-b4352c6360e4.png)
 
+![image](https://user-images.githubusercontent.com/114665200/193116668-0f0866b4-bd47-4e63-bad1-832583a6d6a5.png)
 
-" INSERIR FOTOS DO BACKUP "
+![image](https://user-images.githubusercontent.com/114665200/193116749-5a63d99d-3874-4941-806c-1d327dd4d8cb.png)
+
+
